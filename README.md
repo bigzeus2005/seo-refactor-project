@@ -1,7 +1,7 @@
 # seo-refactor-project
 
 ## Table of Contents
-1. [Description](#Description)
+1. [Description](#description)
 2. [Visuals](#Visuals)
 3. [Links](#Links)
 4. [Usage](#Usage)
@@ -30,8 +30,8 @@ Lastly, I gave the repository a unique name, ensuring it followed best practices
 
 ### Links
 
-https://bigzeus2005.github.io/seo-refactor-project/  
-https://github.com/bigzeus2005/seo-refactor-project
+[Link to application](https://bigzeus2005.github.io/seo-refactor-project/)  
+[Link to GitHub](https://github.com/bigzeus2005/seo-refactor-project)
 
 
 ### Usage
