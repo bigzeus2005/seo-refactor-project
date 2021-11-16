@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Description](#Description)
 2. [Visuals](#Visuals)
+3. [Link](#Link)
 3. [Usage](#Usage)
 
 ### Description  
@@ -21,7 +22,6 @@ I made sure all the links functioned properly. As well as, consolidated the CSS 
 I deployed the site to a live URL and submitted that link along with my GitHub URL. I also ensured there were no load errors and made sure my GitHub repository contained the application code. As well as, ensured the application resemebled the mock-up provided in the homework instructions.  
 
 Lastly, I gave the repository a unique name, ensuring it followed best practices for file structure and naming conventions, as well as, following best practices for class/id naming conventions, indentation, and quality comments. I made sure the repository contained multiple descriptive commit messages and a quality README file with a description, screenshot, and a link to the deployed application. 
-
 
 ### Visuals
 
