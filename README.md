@@ -7,7 +7,7 @@
 4. [Usage](#Usage)
 
 ### Description  
-In this project, we were taksed with:  
+In this project, we were tasked with:  
 
 - Ensuring a given site was up to accessibility standards
 - Fixing the HTML elements so that they follow proper semantics and logical structure independent of styling position
