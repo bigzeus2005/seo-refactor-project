@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Visuals](#Visuals)
-3. [Links](#Links)
-4. [Usage](#Usage)
+2. [Visuals](#visuals)
+3. [Links](#links)
+4. [Usage](#usage)
 
 ### Description  
 In this project, we were tasked with:  
@@ -25,8 +25,8 @@ Lastly, I gave the repository a unique name, ensuring it followed best practices
 
 ### Visuals
 
-![screencapture1](seo-refactor-project\assets\images\screen-cap1.PNG)  
-![screencapture2](seo-refactor-project\assets\images\screen-cap2.PNG)
+![screencapture1](assets\images\screen-cap1.PNG)  
+![screencapture2](assets\images\screen-cap2.PNG)
 
 ### Links
 
