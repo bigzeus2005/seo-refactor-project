@@ -25,8 +25,7 @@ Lastly, I gave the repository a unique name, ensuring it followed best practices
 
 ### Visuals
 
-![screencapture1](assets\images\screen-cap1.PNG)  
-![screencapture2](assets\images\screen-cap2.PNG)
+![screencapture1](./assets/images/screen-cap1.PNG)  
 
 ### Links
 
