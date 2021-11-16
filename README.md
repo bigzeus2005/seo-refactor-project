@@ -3,8 +3,8 @@
 ## Table of Contents
 1. [Description](#Description)
 2. [Visuals](#Visuals)
-3. [Link](#Link)
-3. [Usage](#Usage)
+3. [Links](#Links)
+4. [Usage](#Usage)
 
 ### Description  
 In this project, we were taksed with:  
@@ -25,4 +25,15 @@ Lastly, I gave the repository a unique name, ensuring it followed best practices
 
 ### Visuals
 
+![screencapture1](seo-refactor-project\assets\images\screen-cap1.PNG)  
+![screencapture2](seo-refactor-project\assets\images\screen-cap2.PNG)
+
+### Links
+
+https://bigzeus2005.github.io/seo-refactor-project/  
+https://github.com/bigzeus2005/seo-refactor-project
+
+
 ### Usage
+
+This project was used to help us become more familiar with GitHub along with helping become more familiar with making website SEO friendly. It encompassed many elements of the aspects covered in the course over the first several days. These included HTML semantics, as well as, proper usage of CSS. 
